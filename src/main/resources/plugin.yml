@@ -1,7 +1,6 @@
 main: Utilities
 name: Utils
 version: 1.2-STABLE
-description: Utilities plugin used on all Foxhole Systems Servers.
 
 commands:
   ping:
