@@ -1,0 +1,110 @@
+main: Utilities
+name: Utils
+version: 1.2-STABLE
+description: Utilities plugin used on all Foxhole Systems Servers.
+
+commands:
+  ping:
+    aliases:
+    - "ms"
+    
+  panic:
+    aliases:
+    - "hacker"
+    
+  hub:
+    aliases:
+    - "lobby"
+    
+  setslots:
+    aliases:
+      - "setslot"
+      
+  clearchat:
+    aliases:
+    - "cc"
+    - "chatclear"
+    - "disablechat"
+    
+  list:
+    aliases:
+    - "online"
+    - "playerlist"
+    - "plist"
+    - "who"
+    
+  freeze:
+    aliases:
+    - "ss"
+    - "screenshare"
+  inspect:
+  
+  mutechat:
+    aliases:
+    - "mc"
+    - "mt"
+    - "chatmute"
+  slowchat:
+  
+  staffchat:
+    aliases: 
+    - "sc"
+    - "cs"
+    - "chatstaff"
+    
+  staffmode:
+    aliases:
+    - "staff"
+    - "h"
+    - "sm"
+    - "mod"
+    - "helper"
+    - "modmode"
+    - "hackermode"
+    - "staffutils"
+    
+  vanish:
+    aliases:
+    - "v"
+    - "ev"
+    - "evanish"
+    
+  whois:
+  
+  gamemode:
+    aliases:
+    - "gmc"
+    - "gms"
+    
+  helpop:
+    aliases:
+    - "request"
+    
+  checkreports:
+    aliases:
+    - "cr"
+    
+  report:
+    aliases:
+    - "rep"
+    
+  staffchat:
+    aliases:
+    - "sc"
+    
+  clearreports:
+    aliases:
+    - "cr"
+    
+  togglereports:
+    aliases:
+    - "tr"
+    
+  slowchat:
+    aliaes:
+    - "slow"
+    
+
+
+
+
