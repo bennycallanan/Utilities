@@ -4,6 +4,6 @@ This is an old project that I have now disbanded, this project includes a lot of
 
 *Requirements*
 
-PaperSpigot 1.7.10
-PaperSpigot-API 1.7.10
-ProtocolLib 3.7.0
+- PaperSpigot 1.7.10
+- PaperSpigot-API 1.7.10
+- ProtocolLib 3.7.0
